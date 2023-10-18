@@ -1,0 +1,24 @@
+.viewboxcontainer {
+    border: 3px blueviolet solid;
+    background-color: white;
+}
+.text{
+    font: bold 10x sans-serif;
+}
+body {
+    background-color: antiquewhite;
+}
+
+.white{
+    font: 10px sans-serif;
+    fill: white
+}
+
+.small {
+    font: italic 10px sans-serif;
+  }
+.normal{
+    font: 10px sans-serif;
+
+
+}
